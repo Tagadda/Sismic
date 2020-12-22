@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sismic</string>
+    <string name="vibrate">Sismique</string>
+    <string name="cancel_button">Arrêter</string>
+    <string name="vibe_infinite">Infinie</string>
+    <string name="vibe_burst">À-coups</string>
+    <string name="select_reminder">Veuillez sélectionner un préréglage.</string>
+</resources>
