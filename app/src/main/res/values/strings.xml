@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sismic</string>
+    <string name="vibrate">Sismic</string>
+    <string name="cancel_button">Stop</string>
+    <string name="vibe_infinite">Infinite</string>
+    <string name="vibe_burst">Burst</string>
+    <string name="version">0.0.1</string>
+</resources>
