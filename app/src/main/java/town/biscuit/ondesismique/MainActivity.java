@@ -36,7 +36,11 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 int id = rg.getCheckedRadioButtonId() - 1;
-                vibrator.vibrate(presets[id].timings, presets[id].repeat);
+                if(id < 0) {
+                    Toast.makeText(getApplicationContext(), getString(R.string.select_reminder), Toast.LENGTH_SHORT).show();
+                } else {
+                    vibrator.vibrate(presets[id].timings, presets[id].repeat);
+                }
             }
         });
 
