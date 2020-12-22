@@ -6,4 +6,9 @@
     <string name="vibe_infinite">Infinie</string>
     <string name="vibe_burst">À-coups</string>
     <string name="select_reminder">Veuillez sélectionner un préréglage.</string>
+    <string name="vibe_pulse">Pulsations</string>
+    <string name="vibe_longpulse">Pulsations longues</string>
+    <string name="vibe_1l3s">1 long 3 courts</string>
+    <string name="viber_longerpulse">Pulsations encore plus longue</string>
+    <string name="vibe_allpulse">Toutes les pulsations</string>
 </resources>

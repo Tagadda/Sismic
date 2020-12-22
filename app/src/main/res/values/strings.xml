@@ -4,6 +4,11 @@
     <string name="cancel_button">Stop</string>
     <string name="vibe_infinite">Infinite</string>
     <string name="vibe_burst">Burst</string>
-    <string name="version" translatable="false">0.0.2</string>
+    <string name="version" translatable="false">0.0.3</string>
     <string name="select_reminder">Please select a preset.</string>
+    <string name="vibe_pulse">Pulse</string>
+    <string name="vibe_longpulse">Long pulse</string>
+    <string name="vibe_1l3s">1-long 3-short</string>
+    <string name="viber_longerpulse">Longer pulse</string>
+    <string name="vibe_allpulse">All pulse</string>
 </resources>
